@@ -14,6 +14,6 @@ titolo 1
 linea.  
 separata
 
-	I need to highlight these ==very important words==
+	I need to highlight these ==very important words==.
 
 ~~strike~~
