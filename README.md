@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navicello
+I need to highlight these ==very important words== 👋 Hi, I’m @navicello
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,5 +13,7 @@ titolo 1
 
 linea.  
 separata
+
+	I need to highlight these ==very important words==
 
 ~~strike~~
