@@ -11,5 +11,7 @@ You can click the Preview link to take a look at your changes.
 titolo 1
 ====
 
+linea. 
+separata
 
 ~~strike~~
