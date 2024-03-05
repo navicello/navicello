@@ -12,4 +12,4 @@ titolo 1
 ====
 
 
-~~~strike~~~
+~~strike~~
